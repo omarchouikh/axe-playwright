@@ -1,4 +1,4 @@
-# Playwright Accessibility Test Script
+# Playwright Accessibility Test
 
 
 ## Installation
